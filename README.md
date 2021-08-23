@@ -15,8 +15,8 @@ application architecture for business organizations across the globe. Speaking i
 technical terms, a client/server system puts application processing close to the user;
 helping improve the performance.
 
+![1](https://user-images.githubusercontent.com/73115920/130480579-28e50f84-2342-47b1-be0f-0edf84f04046.png)
 
-![1](https://user-images.githubusercontent.com/73115920/130480329-10c300ac-7f9b-4c88-99ef-a096e22d90cb.png)
 
 ![2](https://user-images.githubusercontent.com/73115920/130480270-d4dac70b-3331-4de2-97c7-18518fff66c1.png)
 ![3](https://user-images.githubusercontent.com/73115920/130480276-26568e17-e3e3-40e2-acc7-5948081dceff.png)
